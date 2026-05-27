@@ -140,7 +140,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=quang001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20Development-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-Backend%20Architecture-1e293b?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Building-Real%20World%20Projects-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
