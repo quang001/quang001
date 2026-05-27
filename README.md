@@ -214,9 +214,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=quang001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF&cache_seconds=1800"/>
+<img src="https://komarev.com/ghpvc/?username=quang001&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=1800"/>
+<img src="https://img.shields.io/github/followers/quang001?label=Followers&style=for-the-badge&color=1e293b" />
+
+<img src="https://img.shields.io/github/stars/quang001?label=Stars&style=for-the-badge&color=22c55e" />
 
 </div>
 
