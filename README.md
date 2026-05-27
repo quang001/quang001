@@ -172,7 +172,7 @@
 </a>
 
 <a href="https://www.facebook.com/nguyen.quang.75165/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="70" />
 </a>
 
 </div>
