@@ -37,33 +37,143 @@
 <div align="center">
 
 ## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind,bootstrap" />
-<br/>
-React • Vite • HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="55" />
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="55" />
+<br>Vite
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="55" />
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="55" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+---
 
 ## ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
-<br/>
-Node.js • Express.js • Java • Spring Boot • Python
 
-<br/><br/>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="55" />
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="55" />
+<br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="55" />
+<br>Spring Boot
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="55" />
+<br>Python
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" />
-<br/>
-MongoDB • MySQL • SQL Server Management Studio
 
-<br/><br/>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="55" />
+<br>SQL Server
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-<br/>
-Git • GitHub • VS Code • Postman • Docker Desktop
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="55" />
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="55" />
+<br>Docker
+</td>
+
+</tr>
+</table>
 
 </div>
+
 ---
 
 # 🔥 Featured Projects
