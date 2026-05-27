@@ -30,26 +30,41 @@
 - 🎯 Goal: Become a Professional Fullstack Engineer
 
 <br/>
-
 # 🚀 Current Tech Stack
 
 <div align="center">
 
 ## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind,bootstrap" />
+<a title="React"><img src="https://skillicons.dev/icons?i=react" width="55" /></a>
+<a title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="55" /></a>
+<a title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="55" /></a>
+<a title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="55" /></a>
+<a title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" /></a>
+<a title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /></a>
+<a title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /></a>
 
 ## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<a title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="55" /></a>
+<a title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="55" /></a>
+<a title="Java"><img src="https://skillicons.dev/icons?i=java" width="55" /></a>
+<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="55" /></a>
+<a title="Python"><img src="https://skillicons.dev/icons?i=python" width="55" /></a>
 
 ## 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /></a>
+<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="55" /></a>
+<a title="SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" /></a>
 
-## 🧠 AI / Tools
+## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,git,github,vscode,postman" />
+<a title="Git"><img src="https://skillicons.dev/icons?i=git" width="55" /></a>
+<a title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="55" /></a>
+<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="55" /></a>
+<a title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="55" /></a>
+<a title="Docker Desktop"><img src="https://skillicons.dev/icons?i=docker" width="55" /></a>
 
 </div>
 
