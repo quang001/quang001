@@ -36,35 +36,139 @@
 
 ## 🎨 Frontend
 
-<a title="React"><img src="https://skillicons.dev/icons?i=react" width="55" /></a>
-<a title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="55" /></a>
-<a title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="55" /></a>
-<a title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="55" /></a>
-<a title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" /></a>
-<a title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /></a>
-<a title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /></a>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="55" />
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="55" />
+<br>Vite
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="55" />
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="55" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+---
 
 ## ⚙️ Backend
 
-<a title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="55" /></a>
-<a title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="55" /></a>
-<a title="Java"><img src="https://skillicons.dev/icons?i=java" width="55" /></a>
-<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="55" /></a>
-<a title="Python"><img src="https://skillicons.dev/icons?i=python" width="55" /></a>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="55" />
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="55" />
+<br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="55" />
+<br>Spring Boot
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="55" />
+<br>Python
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🗄️ Database
 
-<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /></a>
-<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="55" /></a>
-<a title="SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" /></a>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="55" />
+<br>SQL Server
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tools
 
-<a title="Git"><img src="https://skillicons.dev/icons?i=git" width="55" /></a>
-<a title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="55" /></a>
-<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="55" /></a>
-<a title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="55" /></a>
-<a title="Docker Desktop"><img src="https://skillicons.dev/icons?i=docker" width="55" /></a>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="55" />
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="55" />
+<br>Docker
+</td>
+
+</tr>
+</table>
 
 </div>
 
