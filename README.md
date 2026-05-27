@@ -65,16 +65,6 @@
 <br>JavaScript
 </td>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-<br>Tailwind
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
-<br>Bootstrap
-</td>
-</tr>
 </table>
 
 ---
@@ -167,6 +157,11 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="55" />
 <br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=eclipse" width="55" />
+<br>Eclipse
 </td>
 
 </tr>
