@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: quang001
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#8B00FF&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
