@@ -98,9 +98,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenvanquang001cntt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quang001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanquang001cntt&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nguyenvanquang001cntt&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=quang001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenvanquang001cntt&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quang001&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nguyenvanquang001cntt/nguyenvanquang001cntt/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/quang001/quang001/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nguyenvanquang001cntt&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=quang001&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -161,7 +161,7 @@
 
 <div align="center">
 
-<a href="https://github.com/nguyenvanquang001cntt">
+<a href="https://github.com/quang001">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
