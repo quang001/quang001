@@ -164,28 +164,16 @@
 <div align="center">
 
 <a href="https://github.com/quang001" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="60" />
+  <img src="https://skillicons.dev/icons?i=github" width="70" />
 </a>
 
 <a href="mailto:nguyenvanquang001cntt@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" width="60" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="70" />
 </a>
 
 <a href="https://www.facebook.com/nguyen.quang.75165/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" width="60" />
+  <img src="https://skillicons.dev/icons?i=facebook" width="70" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-quang001-181717?style=for-the-badge&logo=github)](https://github.com/quang001)
-
-[![Gmail](https://img.shields.io/badge/Gmail-nguyenvanquang001cntt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvanquang001cntt@gmail.com)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Van%20Quang-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.quang.75165/)
 
 </div>
 
