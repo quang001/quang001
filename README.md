@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Nguyen Van Quang</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Văn Quang</h1>
 
 <h3 align="center">
 🚀 Fullstack Web Developer | AI Enthusiast | Backend Developer
