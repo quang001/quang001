@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/212750547-2e0d7b3b-9d7b-4f2b-b2f5-0d6f6d0f3b0e.gif">
 
 - 🚀 Fullstack Web Developer
 - 🌍 Based in Vietnam
