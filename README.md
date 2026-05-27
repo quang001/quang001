@@ -30,6 +30,9 @@
 - 🎯 Goal: Become a Professional Fullstack Engineer
 
 <br/>
+
+---
+
 # 🚀 Current Tech Stack
 
 <div align="center">
