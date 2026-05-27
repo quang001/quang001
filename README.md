@@ -32,140 +32,38 @@
 <br/>
 
 ---
-
 # 🚀 Current Tech Stack
 
 <div align="center">
 
 ## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind,bootstrap" />
+<br/>
+React • Vite • HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="55" />
-<br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="55" />
-<br>Vite
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="55" />
-<br>HTML5
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="55" />
-<br>CSS3
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="55" />
-<br>JavaScript
-</td>
-
-</tr>
-</table>
-
----
+<br/><br/>
 
 ## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+<br/>
+Node.js • Express.js • Java • Spring Boot • Python
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
-<br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="55" />
-<br>Express
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="55" />
-<br>Java
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="55" />
-<br>Spring Boot
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="55" />
-<br>Python
-</td>
-
-</tr>
-</table>
-
----
+<br/><br/>
 
 ## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" />
+<br/>
+MongoDB • MySQL • SQL Server Management Studio
 
-<table>
-<tr>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" />
-<br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" />
-<br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="55" />
-<br>SQL Server
-</td>
-
-</tr>
-</table>
-
----
+<br/><br/>
 
 ## 🛠️ Tools
-
-<table>
-<tr>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-<br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-<br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" />
-<br>VS Code
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="55" />
-<br>Postman
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="55" />
-<br>Docker
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<br/>
+Git • GitHub • VS Code • Postman • Docker Desktop
 
 </div>
-
 ---
 
 # 🔥 Featured Projects
@@ -211,9 +109,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quang001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quang001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" />
 
 </div>
 
