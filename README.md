@@ -24,7 +24,7 @@
 
 - 🚀 Fullstack Web Developer.
 - 🌍 Based in Vietnam.
-- 🧠 Learning Backend Architecture & AI Integration
+- 🧠 Learning Backend Architecture & AI Integration.
 - ⚡ Passionate about Web Development & AI
 - 🔥 Building Real-world Systems
 - 🎯 Goal: Become a Professional Fullstack Engineer
