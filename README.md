@@ -22,8 +22,8 @@
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🚀 Fullstack Web Developer win
-- 🌍 Based in Vietnam
+- 🚀 Fullstack Web Developer 
+- 🌍 Based in Vietnam win 
 - 🧠 Learning Backend Architecture & AI Integration
 - ⚡ Passionate about Web Development & AI
 - 🔥 Building Real-world Systems
