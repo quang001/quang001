@@ -63,7 +63,7 @@
 <img src="https://skillicons.dev/icons?i=js" width="55" />
 <br>JavaScript
 </td>
-
+</tr>
 </table>
 
 ---
@@ -209,7 +209,9 @@ Risk Buffer Calculation
         ↓
 Suggested Selling Price
         ↓
-Dashboard & Reports 
+Dashboard & Reports
+```
+---
 
 ## 💰 Project Cost Estimation System
 
