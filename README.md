@@ -28,8 +28,6 @@
 - ⚡ Passionate about Web Development & AI
 - 🔥 Building Real-world Systems
 - 🎯 Goal: Become a Professional Fullstack Engineer
-- Test ter
-- test
 <br/>
 
 ---
