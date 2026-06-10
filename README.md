@@ -172,6 +172,45 @@
 
 # 🔥 Featured Projects
 
+## 💰 EstiPro – Intelligent Project Cost Estimation System
+
+> A full-stack project management and intelligent cost estimation platform for media production companies.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+### ✨ Key Features
+
+- 📊 Smart project cost estimation
+- 🧠 Difficulty assessment engine
+- 👥 Employee & level management
+- 🏆 Scoring and ranking system
+- 💼 Customer relationship management
+- 📈 Dashboard & analytics
+- ⚠️ Risk buffer calculation
+- 💰 Automatic pricing suggestion
+- 🤖 AI-assisted estimation
+
+### 🏗 System Flow
+
+```txt
+Customer Project Request
+        ↓
+Difficulty Engine
+        ↓
+Estimation Engine
+        ↓
+Risk Buffer Calculation
+        ↓
+Suggested Selling Price
+        ↓
+Dashboard & Reports 
+
 ## 💰 Project Cost Estimation System
 
 > Intelligent project estimation system for media production companies.
